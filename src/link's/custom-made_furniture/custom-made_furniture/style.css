@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #F3EFEA;
+    width: 1440px;
+    height: 4702px;
+    top: -2148px;
+    left: 7841px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 0 auto;
+}

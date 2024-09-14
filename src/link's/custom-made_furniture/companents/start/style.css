@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.p-start{
+    width: 355px;
+    height: 24px;
+    margin-top: -500px;
+    margin-left: 543px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: #f6f6f6;
+}
+.h3-start{
+    width: 543px;
+    height: 72px;
+    margin-top: 50px;
+    margin-left: 449px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Tenor Sans;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 72px;
+    text-align: center;
+    color: #f6f6f6;
+}
+
+.btn-start{
+    width: 328px;
+    height: 60px;
+    margin-top: 100px;
+    margin-left: 556px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    color: #715B4B;        
+}
+.h3-center{
+    font-family: Tenor Sans;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 72px;
+    text-align: left;
+    width: 533px;
+    height: 72px;
+    margin-top: 250px;
+    margin-left: 134px;
+    gap: 0px;
+    opacity: 0px;
+}
+.blok{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 150px;
+    margin-top: 0px;
+    flex-wrap: wrap;
+}
+.p-center{
+    width: 240px;
+    height: 24px;
+    top: 1113px;
+    left: 142px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    color: #323232;    
+}
+hr{
+    border: 1px solid #715B4B;
+    width: 200px;
+    height: 0px;
+    top: 1327px;
+    left: 142px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+}
+.p-center2{
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    width: 319px;
+    height: 48px;
+    top: 1347px;
+    left: 142px;
+    gap: 0px;
+    opacity: 0px;    
+    color: #323232;     
+}

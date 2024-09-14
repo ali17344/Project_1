@@ -1,0 +1,37 @@
+.blok{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.blok-h3{
+    font-family: Tenor Sans;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 72px;
+    text-align: center;
+    width: 168px;
+    height: 72px;
+    top: 1154px;
+    left: 1047px;
+    gap: 0px;
+    opacity: 0px;    
+    color: #57463A;       
+}
+.p-center{
+   color: #57463A;
+}
+.intro-title-h3{
+    font-size: 30px;
+}
+.intro-title-p2{
+    margin-top: -50px;
+}
+.p3{
+    margin-top: 0px;
+}
+.h3{
+    margin-top: 50px;
+}
+.p5{
+    margin-top: 60px;
+    margin-left: 1000px;
+}

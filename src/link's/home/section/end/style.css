@@ -1,0 +1,143 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.intro-title-info-h3-4{
+    width: 202px;
+    height: 36px;
+    top: 4453px;
+    margin-left: 0px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Tenor Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+    color: #000000;   
+    margin-bottom: 40px;     
+}
+.col-2{
+    background: #E3DACE;
+    margin-left: -40px;
+    padding-left: 100px;
+    height: 537px;
+}
+
+.intro-title-info-btn2{
+    width: 245px;
+    height: 60px;
+    margin-top: 80px;
+    left: 761px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+}
+
+.intro-title-info-h3-5{
+    margin-bottom: 50px;
+}
+
+.intro-title-info-end{
+    width: 1160px;
+    height: 590px;
+    top: 5616px;
+    left: 140px;
+    gap: 0px;
+    border: 7px solid #A1B19F;
+    opacity: 0px;
+    margin: 7px auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.intro-title-info-end2{
+    margin-top: 7px;
+    margin-bottom: 7px;
+    width: 1135px;
+    height: 563px;
+    top: 5630px;
+    left: 153px;
+    gap: 0px;
+    border: 1px solid #57463A;
+    opacity: 0px;
+}
+
+.intro-title-info-h3-6{
+    width: 658px;
+    height: 144px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Tenor Sans;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 72px;
+    text-align: center;
+    margin: 100px auto;
+    color: #57463A;
+}
+
+.intro-title-info-p1-2{
+    width: 922px;
+    height: 108px;
+    margin: -50px auto;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 36px;
+    text-align: left;
+}
+
+.intro-title-end-img{
+    width: 152.42px;
+    height: 150px;
+    top: 6005px;
+    left: 1073px;
+    gap: 0px;
+    opacity: 0px;
+    opacity: 50%;
+    margin-left: 950px;
+    margin-top: 30px;
+}
+
+.footer{
+    width: 100%px;
+    height: 380px;
+    top: 6608px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #715B4B;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #f6f6f6;
+    text-decoration: none;
+}
+
+.link{
+    font-family: Open Sans;
+    width: 70px;
+    height: 24px;
+    top: 6500px;
+    margin-left: 640px;
+    gap: 0px;
+    opacity: 0px;
+    padding-top: 0;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    text-align: left;
+    width: 248px;
+    gap: 0px;
+    opacity: 0px;
+    color: #f6f6f6;
+    display: block;
+}
+

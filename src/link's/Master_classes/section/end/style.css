@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.h3-end-start{
+    font-family: Tenor Sans;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 72px;
+    text-align: left;
+    width: 866px;
+    height: 72px;
+    margin-top: 150px;
+    margin-left: 140px;
+    gap: 0px;
+    opacity: 0px;
+    color: #57463A;
+}
+.box{
+    max-width: 1440px;
+}
+.row{
+    display: flex;
+}
+.col-6{
+    width: 50%;
+    display: inline-block;
+    margin: 50px auto;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: center;
+    color: #323232;
+}
+.h3-end{
+    width: 670px;
+    height: 144px;
+    margin-top: 50px;
+    margin-left: 137px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Tenor Sans;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 72px;
+    text-align: left;
+    color: #57463A;
+}
+.p-end{
+    width: 591px;
+    height: 141px;
+    margin-top: 50px;
+    margin-left: 140px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 27px;
+    text-align: left;
+    color:#000000;        
+}
+.btn-end{
+    width: 245px;
+    height: 60px;
+    margin-top: 100px;
+    margin-left: -200px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #A1B29F;    
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;   
+    color: #f6f6f6; 
+}
