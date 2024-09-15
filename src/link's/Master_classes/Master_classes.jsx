@@ -5,7 +5,7 @@ import Center from './section/center/Center';
 import End from './section/end/End';
 const MasterClasses = () => {
     return (
-        <div className='flex'>
+        <div>
             <Start />
             <Center />
             <End />

@@ -41,16 +41,18 @@ const Start = () => {
             </div>
             <div className='container'>
                 <div className="row row2">
-                <p className='intro-info-p3'>Производство авторской мебели из массива
-                    
+                <div className="pow">
+                <p className='intro-info-p3'>Производство авторской мебели из массива</p>
                 <hr className='intro-info-hr'/>
-                </p>
-                <p className='intro-info-p3'>Реставрация, редизайн, ремонт деревянной мебели
+                </div>
+                <div className="pow">
+                <p className='intro-info-p3'>Реставрация, редизайн, ремонт деревянной мебели</p>
                 <hr className='intro-info-hr'/>
-                </p>
-                <p className='intro-info-p3'>Производство мебели по индивидуальным размерам
+                </div>
+                <div className="pow">
+                <p className='intro-info-p3'>Производство мебели по индивидуальным размерам</p>
                 <hr className='intro-info-hr'/>
-                </p>
+                </div>
                 </div>
             </div>
         </div>
