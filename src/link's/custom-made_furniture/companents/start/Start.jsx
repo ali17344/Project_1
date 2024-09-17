@@ -6,23 +6,7 @@ import "./style.css"
 const Start = () => {
     return (
         <div>
-            <header>
-                <div className='header'>
-                    <Link to={`/master_classes`} className='Link Link1'>
-                <p>Мастер-классы</p>
-                    </Link>
-                    <Link to={`/custom-made_furniture`} className='Link Link1'>
-                <p>Мебель на заказ</p>
-                    </Link>      
-                <img src={img}  alt="" />
-                <Link to={`/`} className='Link Link1'>
-                <p>Главная</p>
-                 </Link>
-                 <Link to={`/about_us`} className='Link Link1'>
-                <p>О нас</p>
-                 </Link>
-                </div>
-            </header>
+
             <img src={img2} alt="" />
             <p className='p-start'>Воплотим вашу любую задумку в реальность</p>
             <h3 className="h3-start">Столярная мастерская </h3>
